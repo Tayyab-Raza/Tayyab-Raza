@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-raza&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-raza" /> </p>
 
-- 🔭 I’m currently working on **Hush Express Freely's Backend**
+- 🔭 I’m currently working on **Hush Express Freely's Web App**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://tayyab-raza.github.io/Personal-Portfolio](https://tayyab-raza.github.io/Personal-Portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-rho-blue-48.vercel.app](https://portfolio-rho-blue-48.vercel.app/)
 
 - 💬 Ask me about **MERN & MEAN**
 
