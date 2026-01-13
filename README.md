@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rho-blue-48.vercel.app](https://portfolio-rho-blue-48.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://razasportfolio.vercel.app)
 
 - 💬 Ask me about **MERN & MEAN**
 
