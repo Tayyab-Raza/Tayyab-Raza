@@ -1,12 +1,12 @@
 # Hi, I'm Tayyab Raza 👋
 
-Full-stack developer (MERN) building web apps end to end — from React frontends to Node/Express APIs.
+Full-stack developer (MERN / MEAN) building web apps end to end — from React frontends to Node/Express APIs.
 
 ---
 
 ## 🔭 Currently
 
-- Building the shopify public app for **RECOMINDAI**
+- Building the web app for **Hush Express Freely**
 - Sharpening **Data Structures & Algorithms**
 - Open to full-stack / MERN opportunities — reach out below
 
@@ -39,7 +39,7 @@ Full-stack developer (MERN) building web apps end to end — from React frontend
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tayyab-Raza&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Tayyab-Raza&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
 
 ---
 
