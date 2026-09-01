@@ -6,7 +6,7 @@ Full-stack developer (MERN / MEAN) building web apps end to end — from React f
 
 ## 🔭 Currently
 
-- Building the web app for **Hush Express Freely**
+- Building shopify public ai agent app for **RECOMINDAI**
 - Sharpening **Data Structures & Algorithms**
 - Open to full-stack / MERN opportunities — reach out below
 
