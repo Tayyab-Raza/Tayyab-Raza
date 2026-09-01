@@ -1,27 +1,48 @@
-<h1 align="center">Hi 👋, I'm Tayyab Raza</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-<p align="center"> <img src="https://i.gifer.com/39Cg.gif" alt="developer" width="full" object-fit="cover" /> </p>
+# Hi, I'm Tayyab Raza 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-raza&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-raza" /> </p>
+Full-stack developer (MERN) building web apps end to end — from React frontends to Node/Express APIs.
 
-- 🔭 I’m currently working on **Hush Express Freely's Web App**
+---
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+## 🔭 Currently
 
-- 👨‍💻 All of my projects are available at [portfolio](https://razasportfolio.vercel.app)
+- Building the shopify public app for **RECOMINDAI**
+- Sharpening **Data Structures & Algorithms**
+- Open to full-stack / MERN opportunities — reach out below
 
-- 💬 Ask me about **MERN & MEAN**
+---
 
-- 📫 How to reach me **traza9192@gmail.com**
+## 🚀 Featured Projects
 
-- ⚡ Fun fact **I am a full stack dev who talks to my rubber duck more than my coworkers—and the duck’s been promoted twice. 🐤💻**
+| Project | What it is | Stack |
+|---|---|---|
+| [**Portfolio**](https://github.com/Tayyab-Raza/Portfolio) | Personal portfolio site | React, TypeScript |
+| [**Patient Dashboard**](https://github.com/Tayyab-Raza/PatientDashboardFrontend) | Frontend for a patient management dashboard | React, JavaScript |
+| [**Food Recipe App**](https://github.com/Tayyab-Raza/Food-recipe) | Recipe discovery app | MERN |
+| [**BookMyShow Clone**](https://github.com/Tayyab-Raza/Bookmyshow) | Movie listing/booking clone using the TMDb API | React, JavaScript |
+| [**Weather App**](https://github.com/Tayyab-Raza/Weather_App) | Weather forecast frontend | React |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tayyab raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyab raza" height="30" width="40" /></a>
-<a href="https://instagram.com/raza.native" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raza.native" height="30" width="40" /></a>
-</p>
+*More on my [portfolio site →](https://razasportfolio.vercel.app)*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Stack
+
+| Area | Tools |
+|---|---|
+| Frontend | React, React Native, Next.js, Angular, Tailwind CSS, Bootstrap |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, PostgreSQL, Redis, Firebase |
+| Infra / Tools | AWS, Docker, Git, Postman |
+
+---
+
+## 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tayyab-Raza&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+
+---
+
+## 📫 Reach Me
+
+[Portfolio](https://razasportfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/tayyab-raza) · [Email](mailto:traza9192@gmail.com)
