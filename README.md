@@ -16,11 +16,9 @@ Full-stack developer (MERN / MEAN) building web apps end to end — from React f
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Portfolio**](https://github.com/Tayyab-Raza/Portfolio) | Personal portfolio site | React, TypeScript |
-| [**Patient Dashboard**](https://github.com/Tayyab-Raza/PatientDashboardFrontend) | Frontend for a patient management dashboard | React, JavaScript |
-| [**Food Recipe App**](https://github.com/Tayyab-Raza/Food-recipe) | Recipe discovery app | MERN |
-| [**BookMyShow Clone**](https://github.com/Tayyab-Raza/Bookmyshow) | Movie listing/booking clone using the TMDb API | React, JavaScript |
-| [**Weather App**](https://github.com/Tayyab-Raza/Weather_App) | Weather forecast frontend | React |
+| [**Portfolio**](https://razasportfolio.vercel.app) | Personal portfolio site | React, TypeScript |
+| [**Marketpilot-core**](https://github.com/Tayyab-Raza/marketpilot-core) | open-source foundation for a modular market-research and F&O analytics platform | Python, HTML |
+
 
 *More on my [portfolio site →](https://razasportfolio.vercel.app)*
 
